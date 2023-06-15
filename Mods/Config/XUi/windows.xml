@@ -1,0 +1,22 @@
+<configs>
+
+	<set xpath="/windows/window[@name='windowToolbelt']/@pos">-388, 98</set>
+	<set xpath="/windows/window[@name='windowToolbelt']//sprite[2]/@height">16</set>	
+	<set xpath="/windows/window[@name='windowToolbelt']//sprite[3]/@height">16</set>
+	<set xpath="/windows/window[@name='windowToolbelt']//sprite[4]/@height">16</set>
+	<set xpath="/windows/window[@name='windowToolbelt']//sprite[2]/@pos">0,14</set>	
+	<set xpath="/windows/window[@name='windowToolbelt']//sprite[3]/@pos">0,14</set>
+	<set xpath="/windows/window[@name='windowToolbelt']//sprite[4]/@pos">0,14</set>	
+	<set xpath="/windows/window[@name='windowToolbelt']//rect[2]/@height">16</set>	
+	<set xpath="/windows/window[@name='windowToolbelt']//rect[3]/@height">16</set>		
+
+	<set xpath="/windows/window[@name='HUDLeftStatBars']//rect[@name='hud']/rect[2]/@pos">1106,0</set>
+	<set xpath="/windows/window[@name='HUDLeftStatBars']//rect[@name='hud']/rect[3]/@pos">524,0</set>
+	<set xpath="/windows/window[@name='toolTipPopups']/@pos">0,160</set>
+	<set xpath="/windows/window[@name='windowCompass']/@pos">-252,-880</set>
+	<set xpath="/windows/window[@name='windowCompass']//sprite[3]/@pos">240,851</set>
+	<set xpath="/windows/window[@name='windowEntering']/rect/@pos">-150,-45</set>
+	
+	
+</configs>
+
